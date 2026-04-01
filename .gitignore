@@ -1,0 +1,13 @@
+# Environment secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Chat logs (optional — remove this line if you want to track them)
+chat_logs/
+
+# IDE
+.vscode/
+.idea/
